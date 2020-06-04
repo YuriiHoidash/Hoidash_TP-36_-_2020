@@ -9,6 +9,8 @@
   <ol>
 <p align="center"><img src="https://github.com/YuriiHoidash/Hoidash_TP-36_-_2020/blob/master/lab4-5/1.png"></p> 
   <ol>
-<p align="center"><img src="https://github.com/YuriiHoidash/Hoidash_TP-36_-_2020/blob/master/lab4-5/2.png"></p> 
+<p align="center"><img src="https://github.com/YuriiHoidash/Hoidash_TP-36_-_2020/blob/master/lab4-5/2.jpg"></p> 
   <ol>
 <p align="center"><img src="https://github.com/YuriiHoidash/Hoidash_TP-36_-_2020/blob/master/lab4-5/3.png"></p>
+<h2 align="center">Лабораторна робота №5</h2>
+<ol>
