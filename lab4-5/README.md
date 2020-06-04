@@ -52,4 +52,11 @@
     for key in range(letters_count):
     decrypted = decrypt(key, encrypted)
     print('Decrypted:', decrypted)
+    
+   <ol>
+<p align="center"><img src="https://github.com/YuriiHoidash/Hoidash_TP-36_-_2020/blob/master/lab4-5/4.jpg"></p> 
+   </li>
+      </ul>
+ </li>
+</ol>  
 <strong>Висновок:</strong> на цій лабораторній було розглянуто роботу алгоритмів сортування.
