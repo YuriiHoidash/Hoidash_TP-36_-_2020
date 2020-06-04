@@ -54,7 +54,7 @@
     print('Decrypted:', decrypted)
     
    <ol>
-<p align="center"><img src="https://github.com/YuriiHoidash/Hoidash_TP-36_-_2020/blob/master/lab4-5/4.jpg"></p> 
+<p align="center"><img src="https://github.com/YuriiHoidash/Hoidash_TP-36_-_2020/blob/master/lab4-5/4.png"></p> 
    </li>
       </ul>
  </li>
