@@ -14,3 +14,42 @@
 <p align="center"><img src="https://github.com/YuriiHoidash/Hoidash_TP-36_-_2020/blob/master/lab4-5/3.png"></p>
 <h2 align="center">Лабораторна робота №5</h2>
 <ol>
+</p>
+    
+    letters = 'abcdefghijklmnopqrstuvwxyz'
+    letters_count = len(letters)
+
+    def encrypt(n, plaintext):
+    result = ''
+
+    for l in plaintext.lower():
+        try:
+            i = (letters.index(l) + n) % letters_count
+            result += letters[i]
+        except ValueError:
+            result += l
+
+    return result.lower()
+
+    def decrypt(n, ciphertext):
+    result = ''
+
+    for l in ciphertext:
+        try:
+            i = (letters.index(l) - n) % letters_count
+            result += letters[i]
+        except ValueError:
+            result += l
+
+    return result
+
+    text = "hello world"
+    offset = 5
+
+    encrypted = encrypt(offset, text)
+    print('Encrypted:', encrypted)
+
+    for key in range(letters_count):
+    decrypted = decrypt(key, encrypted)
+    print('Decrypted:', decrypted)
+<strong>Висновок:</strong> на цій лабораторній було розглянуто роботу алгоритмів сортування.
